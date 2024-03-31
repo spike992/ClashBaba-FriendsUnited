@@ -1,0 +1,18 @@
+version="2.0.16"
+tags={
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"National Focuses"
+	"Technologies"
+}
+name="World War Bruh (PMFU)"
+picture="thumbnail.png"
+replace_path="common/ai_equipment"
+replace_path="common/ai_strategy"
+replace_path="common/ai_strategy_plans"
+replace_path="history/countries"
+replace_path="gfx/interface/equipmentdesigner/tanks/designer"
+supported_version="1.13.*"
+remote_file_id="2913293016"
