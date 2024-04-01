@@ -17,7 +17,7 @@ state={
 		add_core_of = WST
 	}
 	
-	provinces={
+	provinces= {
 		7076 7136 8069 13073 13364 12866 13363 13288
 	}
 
