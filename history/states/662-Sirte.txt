@@ -9,7 +9,7 @@ state={
 	history={
 		owner = ITA
 		victory_points = {
-			13276 1 
+			13364 1 
 		}
 		buildings = {
 			infrastructure = 1
@@ -18,7 +18,7 @@ state={
 	}
 	
 	provinces={
-		7076 7136 8069 13073 13276 12866 13275 13288
+		7076 7136 8069 13073 13364 12866 13363 13288
 	}
 
 	local_supplies=0.0 
